@@ -1,0 +1,1 @@
+cmd_/home/abinaya/nus/os/Operating-System-Assignment-3/e0210493.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/abinaya/nus/os/Operating-System-Assignment-3/e0210493.ko /home/abinaya/nus/os/Operating-System-Assignment-3/e0210493.o /home/abinaya/nus/os/Operating-System-Assignment-3/e0210493.mod.o ;  true
